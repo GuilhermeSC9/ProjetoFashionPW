@@ -35,5 +35,17 @@ body{
     list-style: none;
     display: inline-block;
     margin: 0 15px 0  0;
-    
+}
+
+footer{
+    display: block;
+    text-align: center;
+    background-color: #162028;
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    padding-top: 15px;
+    width:1024px;
+    margin: 50px auto;
+    margin-bottom: 80px;
 }
